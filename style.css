@@ -135,10 +135,7 @@ body {
     list-style: none;
 }
 
-.widget li {
-    padding: 5px 0;
-    border-bottom: 1px dashed #eee;
-}
+
 
 .widget li:last-child {
     border-bottom: none;
